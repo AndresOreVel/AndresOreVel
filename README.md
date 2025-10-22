@@ -1,4 +1,4 @@
-# Hi there, I'm [Andrés Orellana]! 👋
+# Hi there, I'm Andrés Orellana! 👋
 
 I'm a passionate **Web developer** with experience in **Java, TypeScript, Sass, PostgreSql**.
 
