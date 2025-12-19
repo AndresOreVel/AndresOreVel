@@ -1,6 +1,6 @@
 # Hola, soy Andrés Orellana 👋
 
-Soy un desarrollador web especializado en **Angular, Nodejs, Java, TypeScript, Sass, PotgreSql**.
+Soy un **desarrollador web** con experiencia en **Angular, Nodejs, Java, TypeScript, Sass, PotgreSql**.
 
 - 🌱 Sigo mejorando sobre accesibilidad y buenas prácticas en **[FrontEndMentor](https://www.frontendmentor.io/)**
 - 🔭 Desarrollando una Api para futuro curso de idiomas con **[NestJs](https://docs.nestjs.com/)**
