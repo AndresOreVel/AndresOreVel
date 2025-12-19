@@ -9,7 +9,7 @@ Soy un desarrollador web especializado en **Angular, Nodejs, Java, TypeScript, S
 
 # Hi there, I'm Andrés Orellana! 👋
 
-I'm a passionate **Web developer** with experience in **Java, TypeScript, Sass, PostgreSql**.
+I'm a passionate **Web developer** with experience in **Angular, Nodejs, Java ,TypeScript, Sass, PostgreSql**.
 
 - 🌱 I'm currently learning accessibility best practices and enhancing my skills on **[FrontEndMentor](https://www.frontendmentor.io/)**
 - 🔭 Developing an Api for a future language course with **[NestJs](https://docs.nestjs.com/)**
