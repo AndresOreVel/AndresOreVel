@@ -1,6 +1,6 @@
 # Hola, soy Andrés Orellana 👋
 
-***Full Stack Developer · TypeScript · React · Angular · Next.js
+**Full Stack Developer · TypeScript · React · Angular · Next.js**
 
 Soy **desarrollador de software especializado en aplicaciones web modernas**, con experiencia desarrollando soluciones tanto en frontend como en backend.
 
@@ -59,6 +59,10 @@ El proyecto nació como una idea propia y terminó convirtiéndose en una aplica
 **Stack principal**
 
 **Next.js · React · TypeScript · Prisma · PostgreSQL · AWS · Nginx**
+
+📊**GitHub**
+Estoy utilizando GitHub para documentar mis proyectos, experimentar con nuevas tecnologías y seguir mejorando como desarrollador.
+
 
 💡**Build it. Improve it. Learn from it**
 
