@@ -21,19 +21,19 @@ Actualmente estoy desarrollando proyectos propios con tecnologías como React, N
 
 🛠️ **Tecnologías**
 
-**Frontend**
+-**Frontend**
 TypeScript JavaScript React Next.js Angular HTML CSS Sass
 
-**Backend**
+-**Backend**
 Node.js Express NestJS Next.js API Routes
 
-**Base de datos**
+-**Base de datos**
 PostgreSQL Prisma TypeORM
 
-**Cloud & DevOps**
+-**Cloud & DevOps**
 AWS EC2  AWS RDS  Nginx  PM2  Let's Encrypt
 
-**Herramientas**
+-**Herramientas**
 Git GitHub Thunder Client VS Code
 
 ⭐ **Proyecto destacado** — **Vireon**
